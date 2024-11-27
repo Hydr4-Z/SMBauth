@@ -2,7 +2,7 @@
 
 <p align="center">[  !  ] El script requiere la instalación de paquetes. Una vez ejecutado, estos pueden ser visualizados en el código de SMBauth.py. </p>
 
-<hr/>
+<hr/> <br>
 
 <picture> <img align="right" src="https://i.pinimg.com/originals/6c/2b/b8/6c2bb8b7405d465a581a957944dbb8a3.gif?raw=true" width = 250px> </picture> <br> 
 
