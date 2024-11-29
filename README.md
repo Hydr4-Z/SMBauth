@@ -1,6 +1,6 @@
 <h1 align="center"> SMBauth </h1> <br>
 
-<p align="center">[  !  ] El script requiere la instalación de paquetes. Una vez ejecutado, estos pueden ser instalados de requirements.txt. </p>
+<p align="center">[  !  ] El script requiere la instalación de paquetes. Una vez ejecutado, estos pueden instalarse desde el archivo requirements.txt manualmente o mediante la ejecución del script automatizado requirements.sh </p>
 
 <hr/> <br>
 
