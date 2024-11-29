@@ -11,7 +11,7 @@
 1 - Verificación de un dominio y servidor al ingresar las credenciales. <br>
 2 - Conexión por selección de recursos en una mini interfaz, entablando una mini shell. <br>
 3 - Conexión por terminal mediante argumentos, entablando una mini shell. <br>
-4 - Visualización de recursos en una red. <br> 
+4 - Visualización de recursos en un servidor. <br> 
 
 <br> <br> <hr/>
 
