@@ -8,7 +8,7 @@
 
 **Algunas de sus funcionalidades:**
 
-1 - Verificación de un dominio y subdominio al ingresar las credenciales. <br>
+1 - Verificación de un dominio y servidor al ingresar las credenciales. <br>
 2 - Conexión por selección de recursos en una mini interfaz, entablando una mini shell. <br>
 3 - Conexión por terminal mediante argumentos, entablando una mini shell. <br>
 4 - Visualización de recursos en una red. <br> 
