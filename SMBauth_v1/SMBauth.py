@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# by Hydr4-Z / https://github.com/Hydr4-Z 
+
 from impacket.smbconnection import SMBConnection
 from impacket.examples.utils import parse_target
 from impacket.examples.smbclient import MiniImpacketShell 
